@@ -12,7 +12,7 @@ Once completed, this project will demonstrate proficiency in the following areas
 * **Git & GitHub Workflow:** Initializing a repository, staging changes, writing clear, atomic commit messages, and pushing code to GitHub.
 
 ## Reflection *(I will answer at the end of the project)*
-* **What went well:** [1 ]
-* **Challenges faced:** [1 ]
-* **Key takeaways:** [1 ]
+* **What went well:** [Everything went as expected I faced no challenge ]
+* **Challenges faced:** [none ]
+* **Key takeaways:** Leaning is simple when you have the passion to do so.
 # odin-recipes
